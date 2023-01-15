@@ -1,5 +1,5 @@
 {
-  "name": "getting-a-list-of-movies-from-the-server",
+  "name": "fetching-a-list-of-movies",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
